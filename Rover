@@ -1,0 +1,25 @@
+Rover + Arm + ultra sonic + pixy2 + google vision + pimoni + optics + google voice + Mycroft based environment 2v, vision/voice AI 
+
+Rover based on 
+https://github.com/96boards-projects/carbon_rover#2-software 
+with 4 ultrasonic but with 
+google vision 
+https://github.com/google/aiyprojects-raspbian
+https://aiyprojects.withgoogle.com/vision/
+make sure it starts automatically after reboot
+then add pan and tilt with face recogniton
+https://github.com/pimoroni/pantilt-hat
+then add pixy2 for line tracking etc
+then do adrians opencv 
+https://www.pyimagesearch.com/
+add optics such as microscope and telescope
+mycroft voice
+https://mycroft.ai/
+https://github.com/MycroftAI
+privacy enhanced ai (use my ai to access other ais)
+should be able to run routines tidy or sort etc, control lights, 
+
+
+
+
+
